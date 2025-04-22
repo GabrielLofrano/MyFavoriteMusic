@@ -32,8 +32,6 @@ namespace MyFavoriteMusic.Api.Controllers
         }
 
         [HttpGet("{id}")]
-        [ProducesResponseType(typeof(ApiResponse<int>), StatusCodes.Status201Created)]
-        [ProducesResponseType(typeof(ApiResponse<string>), StatusCodes.Status400BadRequest)]
         public async Task<ActionResult> GetById(int id)
         {
             try
