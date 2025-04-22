@@ -1,6 +1,7 @@
 using FluentValidation;
 using FluentValidation.AspNetCore;
 using MyFavoriteMusic.Api.Configurations;
+using MyFavoriteMusic.Api.Middlewares;
 using MyFavoriteMusic.Api.Validators;
 using MyFavoriteMusic.Infrastructure.DependencyInjection;
 
@@ -26,6 +27,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseExceptionMiddleware();
 
 app.UseHttpsRedirection();
 

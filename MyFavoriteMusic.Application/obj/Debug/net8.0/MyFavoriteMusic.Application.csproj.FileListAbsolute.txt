@@ -15,3 +15,4 @@ C:\Users\Gabriel\source\repos\MyFavoriteMusic\MyFavoriteMusic.Application\obj\De
 C:\Users\Gabriel\source\repos\MyFavoriteMusic\MyFavoriteMusic.Application\obj\Debug\net8.0\refint\MyFavoriteMusic.Application.dll
 C:\Users\Gabriel\source\repos\MyFavoriteMusic\MyFavoriteMusic.Application\obj\Debug\net8.0\MyFavoriteMusic.Application.pdb
 C:\Users\Gabriel\source\repos\MyFavoriteMusic\MyFavoriteMusic.Application\obj\Debug\net8.0\ref\MyFavoriteMusic.Application.dll
+C:\Users\Gabriel\source\repos\MyFavoriteMusic\MyFavoriteMusic.Application\obj\Debug\net8.0\MyFavoriteMusic.Application.sourcelink.json

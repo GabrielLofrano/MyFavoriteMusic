@@ -178,3 +178,4 @@ C:\Users\Gabriel\source\repos\MyFavoriteMusic\MyFavoriteMusic.Api\bin\Debug\net8
 C:\Users\Gabriel\source\repos\MyFavoriteMusic\MyFavoriteMusic.Api\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\Gabriel\source\repos\MyFavoriteMusic\MyFavoriteMusic.Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 C:\Users\Gabriel\source\repos\MyFavoriteMusic\MyFavoriteMusic.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Gabriel\source\repos\MyFavoriteMusic\MyFavoriteMusic.Api\obj\Debug\net8.0\MyFavoriteMusic.Api.sourcelink.json

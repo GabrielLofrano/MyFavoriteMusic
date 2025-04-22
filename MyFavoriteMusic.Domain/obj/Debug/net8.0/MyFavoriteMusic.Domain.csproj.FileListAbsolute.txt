@@ -9,3 +9,4 @@ C:\Users\Gabriel\source\repos\MyFavoriteMusic\MyFavoriteMusic.Domain\obj\Debug\n
 C:\Users\Gabriel\source\repos\MyFavoriteMusic\MyFavoriteMusic.Domain\obj\Debug\net8.0\refint\MyFavoriteMusic.Domain.dll
 C:\Users\Gabriel\source\repos\MyFavoriteMusic\MyFavoriteMusic.Domain\obj\Debug\net8.0\MyFavoriteMusic.Domain.pdb
 C:\Users\Gabriel\source\repos\MyFavoriteMusic\MyFavoriteMusic.Domain\obj\Debug\net8.0\ref\MyFavoriteMusic.Domain.dll
+C:\Users\Gabriel\source\repos\MyFavoriteMusic\MyFavoriteMusic.Domain\obj\Debug\net8.0\MyFavoriteMusic.Domain.sourcelink.json

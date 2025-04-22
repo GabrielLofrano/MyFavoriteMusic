@@ -99,5 +99,11 @@ namespace MyFavoriteMusic.Api.Controllers
 
 
         }
+
+        [HttpGet("force-error")]
+        public IActionResult ForceError()
+        {
+            throw new Exception("This is a test exception!");
+        }
     }
 }

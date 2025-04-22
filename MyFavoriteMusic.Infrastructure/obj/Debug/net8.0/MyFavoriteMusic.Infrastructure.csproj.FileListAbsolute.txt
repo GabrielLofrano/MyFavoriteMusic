@@ -19,3 +19,4 @@ C:\Users\Gabriel\source\repos\MyFavoriteMusic\MyFavoriteMusic.Infrastructure\obj
 C:\Users\Gabriel\source\repos\MyFavoriteMusic\MyFavoriteMusic.Infrastructure\obj\Debug\net8.0\ref\MyFavoriteMusic.Infrastructure.dll
 C:\Users\Gabriel\source\repos\MyFavoriteMusic\MyFavoriteMusic.Infrastructure\bin\Debug\net8.0\MyFavoriteMusic.Infrastructure.runtimeconfig.json
 C:\Users\Gabriel\source\repos\MyFavoriteMusic\MyFavoriteMusic.Infrastructure\obj\Debug\net8.0\MyFavoriteMusic.Infrastructure.genruntimeconfig.cache
+C:\Users\Gabriel\source\repos\MyFavoriteMusic\MyFavoriteMusic.Infrastructure\obj\Debug\net8.0\MyFavoriteMusic.Infrastructure.sourcelink.json
