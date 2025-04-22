@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MyFavoriteMusic.Application/1.0.0": {
+        "dependencies": {
+          "MyFavoriteMusic.Domain": "1.0.0",
+          "MyFavoriteMusic.Shared": "1.0.0"
+        },
+        "runtime": {
+          "MyFavoriteMusic.Application.dll": {}
+        }
+      },
+      "MyFavoriteMusic.Domain/1.0.0": {
+        "runtime": {
+          "MyFavoriteMusic.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MyFavoriteMusic.Shared/1.0.0": {
+        "runtime": {
+          "MyFavoriteMusic.Shared.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyFavoriteMusic.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyFavoriteMusic.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyFavoriteMusic.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

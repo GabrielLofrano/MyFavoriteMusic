@@ -1,0 +1,6 @@
+@MyFavoriteMusic.Api_HostAddress = http://localhost:5252
+
+GET {{MyFavoriteMusic.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
