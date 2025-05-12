@@ -17,6 +17,8 @@ namespace MyFavoriteMusic.Infrastructure.Persistence.Contexts
 
         public DbSet<Album> Albums { get; set; }
 
+        public DbSet<Artist> Artists { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(MyFavoriteMusicContext).Assembly);

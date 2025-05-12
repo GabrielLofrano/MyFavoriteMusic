@@ -18,7 +18,7 @@
       "MyFavoriteMusic.Domain/1.0.0": {
         "runtime": {
           "MyFavoriteMusic.Domain.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -26,7 +26,7 @@
       "MyFavoriteMusic.Shared/1.0.0": {
         "runtime": {
           "MyFavoriteMusic.Shared.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }

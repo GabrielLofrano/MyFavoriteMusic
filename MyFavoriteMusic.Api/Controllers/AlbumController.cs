@@ -32,7 +32,7 @@ namespace MyFavoriteMusic.Api.Controllers
         }
 
         [HttpGet("{id}")]
-        public async Task<ActionResult> GetById(int id)
+        public async Task<ActionResult> GetById(Guid id)
         {
             try
             {
@@ -53,17 +53,17 @@ namespace MyFavoriteMusic.Api.Controllers
         {
             var albumId = await _albumService.CreateAsync(request);
 
-            if (albumId == 0)
+            if (albumId == Guid.Empty)
             {
                 return BadRequest(ApiResponse<string>.FailureResponse("Failed to create album"));
             }
 
             return CreatedAtAction(nameof(GetById), new {id = albumId}, 
-                ApiResponse<int>.SuccessResponse(albumId, "Album created successfully"));
+                ApiResponse<Guid>.SuccessResponse(albumId, "Album created successfully"));
         }
 
         [HttpPut("{id}")]
-        public async Task<ActionResult> UpdateAlbum([FromBody] UpdateAlbumRequest request, int id)
+        public async Task<ActionResult> UpdateAlbum([FromBody] UpdateAlbumRequest request, Guid id)
         {
             try
             {
@@ -83,7 +83,7 @@ namespace MyFavoriteMusic.Api.Controllers
         }
 
         [HttpDelete("{id}")]
-        public async Task<ActionResult> DeleteAlbum(int id)
+        public async Task<ActionResult> DeleteAlbum(Guid id)
         {
             try
             {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0eKAemQPwoI=",
+  "dgSpecHash": "88ENzu3ClyY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gabriel\\source\\repos\\MyFavoriteMusic\\MyFavoriteMusic.Infrastructure\\MyFavoriteMusic.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Gabriel\\Desktop\\MyFavoriteMusic\\MyFavoriteMusic.Infrastructure\\MyFavoriteMusic.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gabriel\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Gabriel\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

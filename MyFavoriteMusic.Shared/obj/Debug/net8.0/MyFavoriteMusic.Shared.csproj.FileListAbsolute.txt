@@ -10,3 +10,15 @@ C:\Users\Gabriel\source\repos\MyFavoriteMusic\MyFavoriteMusic.Shared\obj\Debug\n
 C:\Users\Gabriel\source\repos\MyFavoriteMusic\MyFavoriteMusic.Shared\obj\Debug\net8.0\MyFavoriteMusic.Shared.pdb
 C:\Users\Gabriel\source\repos\MyFavoriteMusic\MyFavoriteMusic.Shared\obj\Debug\net8.0\ref\MyFavoriteMusic.Shared.dll
 C:\Users\Gabriel\source\repos\MyFavoriteMusic\MyFavoriteMusic.Shared\obj\Debug\net8.0\MyFavoriteMusic.Shared.sourcelink.json
+C:\Users\Gabriel\Desktop\MyFavoriteMusic\MyFavoriteMusic.Shared\bin\Debug\net8.0\MyFavoriteMusic.Shared.deps.json
+C:\Users\Gabriel\Desktop\MyFavoriteMusic\MyFavoriteMusic.Shared\bin\Debug\net8.0\MyFavoriteMusic.Shared.dll
+C:\Users\Gabriel\Desktop\MyFavoriteMusic\MyFavoriteMusic.Shared\bin\Debug\net8.0\MyFavoriteMusic.Shared.pdb
+C:\Users\Gabriel\Desktop\MyFavoriteMusic\MyFavoriteMusic.Shared\obj\Debug\net8.0\MyFavoriteMusic.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\MyFavoriteMusic\MyFavoriteMusic.Shared\obj\Debug\net8.0\MyFavoriteMusic.Shared.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\MyFavoriteMusic\MyFavoriteMusic.Shared\obj\Debug\net8.0\MyFavoriteMusic.Shared.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\MyFavoriteMusic\MyFavoriteMusic.Shared\obj\Debug\net8.0\MyFavoriteMusic.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\MyFavoriteMusic\MyFavoriteMusic.Shared\obj\Debug\net8.0\MyFavoriteMusic.Shared.sourcelink.json
+C:\Users\Gabriel\Desktop\MyFavoriteMusic\MyFavoriteMusic.Shared\obj\Debug\net8.0\MyFavoriteMusic.Shared.dll
+C:\Users\Gabriel\Desktop\MyFavoriteMusic\MyFavoriteMusic.Shared\obj\Debug\net8.0\refint\MyFavoriteMusic.Shared.dll
+C:\Users\Gabriel\Desktop\MyFavoriteMusic\MyFavoriteMusic.Shared\obj\Debug\net8.0\MyFavoriteMusic.Shared.pdb
+C:\Users\Gabriel\Desktop\MyFavoriteMusic\MyFavoriteMusic.Shared\obj\Debug\net8.0\ref\MyFavoriteMusic.Shared.dll

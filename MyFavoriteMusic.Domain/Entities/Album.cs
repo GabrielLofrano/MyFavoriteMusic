@@ -18,7 +18,7 @@ namespace MyFavoriteMusic.Domain.Entities
             this.Title = title;
             this.Rate = rate;
         }
-        public int Id { get; private set; }
+        public Guid Id { get; private set; }
         public string Title { get; private set; }
         public decimal Rate { get; private set; }
 

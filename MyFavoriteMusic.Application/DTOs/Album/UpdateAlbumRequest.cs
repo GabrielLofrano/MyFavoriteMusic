@@ -8,7 +8,7 @@ namespace MyFavoriteMusic.Application.DTOs.Album
 {
     public class UpdateAlbumRequest
     {
-        public int Id { get; set; }
+        public Guid Id { get; set; }
         public string Title { get; set; }
         public decimal Rate { get; set; }
     }

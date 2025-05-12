@@ -10,7 +10,7 @@ namespace MyFavoriteMusic.Domain.Interfaces
      public interface IAlbumRepository
     {
         Task<IEnumerable<Album>> GetAllAsync();
-        Task<Album> GetByIdAsync(int id);
+        Task<Album> GetByIdAsync(Guid id);
         Task AddAsync(Album album);
         Task UpdateAsync(Album album);
         Task DeleteAsync(Album album);

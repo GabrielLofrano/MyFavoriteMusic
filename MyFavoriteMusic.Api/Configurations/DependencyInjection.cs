@@ -12,6 +12,8 @@ namespace MyFavoriteMusic.Api.Configurations
 
             services.AddScoped<IAlbumRepository, AlbumRepository>();
             services.AddScoped<IAlbumService, AlbumService>();
+            services.AddScoped<IArtistService, ArtistService>();
+            services.AddScoped<IArtistRepository, ArtistRepository>();
 
             return services;
         }

@@ -8,7 +8,7 @@ namespace MyFavoriteMusic.Domain.Exceptions
 {
     public class AlbumNotFoundException : DomainException
     {
-        public AlbumNotFoundException(int id)
+        public AlbumNotFoundException(Guid id)
             :base($"Album with ID {id} was not found.")
         {
             

@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "+aa4we3QT8t4hkeagCEaB6s5sr0q2s/qL62RXcfUBXE=",
+  "Hash": "uDO4mjGbSO2qhcDbfOLFqETh0FundhUj8xNTJEN+6kA=",
   "Source": "MyFavoriteMusic.Api",
   "BasePath": "_content/MyFavoriteMusic.Api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

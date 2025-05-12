@@ -30,7 +30,7 @@ namespace MyFavoriteMusic.Infrastructure.Persistence.Repositories
             return await _context.Albums.ToListAsync();
         }
 
-        public async Task<Album> GetByIdAsync(int id)
+        public async Task<Album> GetByIdAsync(Guid id)
         {
             return await _context.Albums.FindAsync(id);
         }

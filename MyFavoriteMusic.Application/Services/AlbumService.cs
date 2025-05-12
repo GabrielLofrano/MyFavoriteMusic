@@ -21,7 +21,7 @@ namespace MyFavoriteMusic.Application.Services
             _albumRepository = albumRepository;
         }
 
-        public async Task<int> CreateAsync(CreateAlbumRequest request)
+        public async Task<Guid> CreateAsync(CreateAlbumRequest request)
         {
             var album = new Album(request.Title, request.Rate);
 
@@ -30,7 +30,7 @@ namespace MyFavoriteMusic.Application.Services
             return album.Id;
         }
 
-        public async Task<AlbumDto> GetAlbumByIdAsync(int id)
+        public async Task<AlbumDto> GetAlbumByIdAsync(Guid id)
         {
             var album = await _albumRepository.GetByIdAsync(id);
 
@@ -65,7 +65,7 @@ namespace MyFavoriteMusic.Application.Services
 
             return albunsDto;
         }
-        public async Task UpdateAsync(int id, UpdateAlbumRequest request)
+        public async Task UpdateAsync(Guid id, UpdateAlbumRequest request)
         {
             var albumToEdit = await _albumRepository.GetByIdAsync(id);
 
@@ -78,7 +78,7 @@ namespace MyFavoriteMusic.Application.Services
             await _albumRepository.UpdateAsync(albumToEdit);
         }
 
-        public async Task DeleteAsync(int id)
+        public async Task DeleteAsync(Guid id)
         {
             var albumToDelete = await _albumRepository.GetByIdAsync(id);
 

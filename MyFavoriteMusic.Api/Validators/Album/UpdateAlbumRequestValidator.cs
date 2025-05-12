@@ -1,7 +1,7 @@
 ﻿using FluentValidation;
 using MyFavoriteMusic.Application.DTOs.Album;
 
-namespace MyFavoriteMusic.Api.Validators
+namespace MyFavoriteMusic.Api.Validators.Album
 {
     public class UpdateAlbumRequestValidator : AbstractValidator<UpdateAlbumRequest>
     {

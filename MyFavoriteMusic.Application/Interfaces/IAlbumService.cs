@@ -11,10 +11,10 @@ namespace MyFavoriteMusic.Application.Interfaces
     public interface IAlbumService
     {
         Task<IEnumerable<AlbumDto>> ListAlbunsAsync();
-        Task<AlbumDto> GetAlbumByIdAsync(int id);
+        Task<AlbumDto> GetAlbumByIdAsync(Guid id);
         Task<AlbumDto> GetAlbumByNameAsync(string name);
-        Task<int> CreateAsync(CreateAlbumRequest request);
-        Task UpdateAsync(int id, UpdateAlbumRequest request);
-        Task DeleteAsync(int id);
+        Task<Guid> CreateAsync(CreateAlbumRequest request);
+        Task UpdateAsync(Guid id, UpdateAlbumRequest request);
+        Task DeleteAsync(Guid id);
     }
 }
