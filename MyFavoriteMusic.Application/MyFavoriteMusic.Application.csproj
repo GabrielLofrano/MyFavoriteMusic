@@ -1,13 +1,17 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\MyFavoriteMusic.Domain\MyFavoriteMusic.Domain.csproj" />
-    <ProjectReference Include="..\MyFavoriteMusic.Shared\MyFavoriteMusic.Shared.csproj" />
+    <Compile Remove="Commands\**" />
+    <Compile Remove="Queries\**" />
+    <EmbeddedResource Remove="Commands\**" />
+    <EmbeddedResource Remove="Queries\**" />
+    <None Remove="Commands\**" />
+    <None Remove="Queries\**" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Commands\" />
-    <Folder Include="Queries\" />
+    <ProjectReference Include="..\MyFavoriteMusic.Domain\MyFavoriteMusic.Domain.csproj" />
+    <ProjectReference Include="..\MyFavoriteMusic.Shared\MyFavoriteMusic.Shared.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
