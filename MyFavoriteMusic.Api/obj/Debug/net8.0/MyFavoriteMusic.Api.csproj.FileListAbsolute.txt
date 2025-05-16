@@ -357,10 +357,10 @@ C:\Users\Gabriel\Desktop\MyFavoriteMusic\MyFavoriteMusic.Api\obj\Debug\net8.0\st
 C:\Users\Gabriel\Desktop\MyFavoriteMusic\MyFavoriteMusic.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyFavoriteMusic.Api.props
 C:\Users\Gabriel\Desktop\MyFavoriteMusic\MyFavoriteMusic.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyFavoriteMusic.Api.props
 C:\Users\Gabriel\Desktop\MyFavoriteMusic\MyFavoriteMusic.Api\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Gabriel\Desktop\MyFavoriteMusic\MyFavoriteMusic.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Gabriel\Desktop\MyFavoriteMusic\MyFavoriteMusic.Api\obj\Debug\net8.0\MyFavori.359D563E.Up2Date
 C:\Users\Gabriel\Desktop\MyFavoriteMusic\MyFavoriteMusic.Api\obj\Debug\net8.0\MyFavoriteMusic.Api.dll
 C:\Users\Gabriel\Desktop\MyFavoriteMusic\MyFavoriteMusic.Api\obj\Debug\net8.0\refint\MyFavoriteMusic.Api.dll
 C:\Users\Gabriel\Desktop\MyFavoriteMusic\MyFavoriteMusic.Api\obj\Debug\net8.0\MyFavoriteMusic.Api.pdb
 C:\Users\Gabriel\Desktop\MyFavoriteMusic\MyFavoriteMusic.Api\obj\Debug\net8.0\MyFavoriteMusic.Api.genruntimeconfig.cache
 C:\Users\Gabriel\Desktop\MyFavoriteMusic\MyFavoriteMusic.Api\obj\Debug\net8.0\ref\MyFavoriteMusic.Api.dll
+C:\Users\Gabriel\Desktop\MyFavoriteMusic\MyFavoriteMusic.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

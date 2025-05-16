@@ -78,8 +78,10 @@ public class UserService : IUserService
             throw new UserNotFoundException(id);
 
         userToUpdate.ChangeUserName(request.UserName);
-        userToUpdate.ChangePasswordHash(request.PasswordHash);
+        userToUpdate.ChangePassword(request.PasswordHash);
         userToUpdate.ChangeRole(request.Role);
+
+        await _userRepository.UpdateAsync(userToUpdate);
 
     }
 }

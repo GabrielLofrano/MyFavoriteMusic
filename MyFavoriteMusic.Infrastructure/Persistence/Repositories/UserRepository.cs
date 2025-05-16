@@ -43,7 +43,6 @@ namespace MyFavoriteMusic.Infrastructure.Persistence.Repositories
 
         public async Task UpdateAsync(User user)
         {
-            _context.Update(user);
             await _context.SaveChangesAsync();
         }
     }

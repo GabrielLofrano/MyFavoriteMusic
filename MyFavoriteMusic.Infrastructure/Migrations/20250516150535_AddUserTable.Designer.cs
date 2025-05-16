@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using MyFavoriteMusic.Infrastructure.Persistence.Contexts;
 
@@ -11,9 +12,11 @@ using MyFavoriteMusic.Infrastructure.Persistence.Contexts;
 namespace MyFavoriteMusic.Infrastructure.Migrations
 {
     [DbContext(typeof(MyFavoriteMusicContext))]
-    partial class MyFavoriteMusicContextModelSnapshot : ModelSnapshot
+    [Migration("20250516150535_AddUserTable")]
+    partial class AddUserTable
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
